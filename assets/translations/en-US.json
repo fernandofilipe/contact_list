@@ -1,0 +1,44 @@
+{
+    "APP_BAR_LABEL_CONTACT": "Contacts",
+    "APP_BAR_LABEL_RECENTS": "Recents",
+    "APP_BAR_LABEL_FAVORITES": "Favorites",
+    
+    "APP_CONTACT_FORM_NAME": "Name",
+    "APP_CONTACT_FORM_NAME_FAIL_VALIDATION": "Name must be greater than three characters",
+    "APP_CONTACT_FORM_SURNAME": "Surname",
+    "APP_CONTACT_FORM_INITIAL": "Initial",
+    "APP_CONTACT_FORM_PHONE": "Phone",
+    "APP_CONTACT_FORM_EMAIL": "E-mail",
+    "APP_CONTACT_FORM_EMAIL_FAIL_VALIDATION": "Invalid E-mail.",
+    "APP_CONTACT_FORM_COMPANY": "Company",
+    "APP_CONTACT_FORM_SAVE_BUTTON": "Save",
+    
+    "APP_CONTACT_BUTTON_LABEL_OK": "Ok",
+    "APP_CONTACT_BUTTON_LABEL_SAVE": "Save",
+    "APP_CONTACT_BUTTON_LABEL_DELETE": "Delete",
+    "APP_CONTACT_BUTTON_LABEL_CANCEL": "Cancel",
+    "APP_CONTACT_BUTTON_LABEL_NEW_CONTACT": "Create new contact",
+
+    "APP_CONTACT_MESSAGE_REMOVE_ITEM": "Do you really want to remove this item?",
+    "APP_CONTACT_MESSAGE_REMOVE_CONTACT": "Do you really want to remove this contact?",
+    "APP_CONTACT_MESSAGE_REMOVE_CONTACT_CONFIRMATION": "You are about to remove:",
+    "APP_CONTACT_MESSAGE_REMOVE_CONTACT_ACTION": "Remove contact",
+
+    "APP_CONTACT_FEEDBACK_SUCCESS": "Success",
+    "APP_CONTACT_FEEDBACK_WARNING": "Warning",
+    "APP_CONTACT_FEEDBACK_ERROR": "Error",
+    "APP_CONTACT_FEEDBACK_CONTACT_GET_MANY": "Contacts obtained successfully.",
+    "APP_CONTACT_FEEDBACK_CONTACT_GET_FAIL_MANY": "No contacts were found.",
+    "APP_CONTACT_FEEDBACK_CONTACT_GET_FAIL": "Contact was not found.",
+    "APP_CONTACT_FEEDBACK_CONTACT_GET": "Contact successfully retrieved.",
+    "APP_CONTACT_FEEDBACK_CONTACT_CREATE": "Contact created successfully.",
+    "APP_CONTACT_FEEDBACK_CONTACT_UPDATE": "Contact updated successfully.",
+    "APP_CONTACT_FEEDBACK_CONTACT_DELETE": "Contact successfully removed.",
+    "APP_CONTACT_FEEDBACK_CONTACT_VALIDATION_NAME": "The Name field cannot be empty.",
+    "APP_CONTACT_FEEDBACK_CONTACT_VALIDATION_SURNAME": "The Surname field cannot be empty.",
+    
+    "APP_CONTACT_IMAGE_CROPER_TITLE": "Adjust and crop",
+    "APP_CONTACT_IMAGE_CAMERA_LABEL": "Camera",
+    "APP_CONTACT_IMAGE_GALLERY_LABEL": "Gallery"
+
+}

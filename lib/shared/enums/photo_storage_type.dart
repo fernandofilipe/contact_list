@@ -1,0 +1,1 @@
+enum PhotoStorageType { gallery, storage }

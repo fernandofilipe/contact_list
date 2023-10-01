@@ -1,0 +1,43 @@
+{
+    "APP_BAR_LABEL_CONTACT": "Contatos",
+    "APP_BAR_LABEL_RECENTS": "Recentes",
+    "APP_BAR_LABEL_FAVORITES": "Favoritos",
+    
+    "APP_CONTACT_FORM_NAME": "Nome",
+    "APP_CONTACT_FORM_NAME_FAIL_VALIDATION": "O nome deve possuir ao menos 3 caracteres.",
+    "APP_CONTACT_FORM_SURNAME": "Sobrenome",
+    "APP_CONTACT_FORM_INITIAL": "Inicial",
+    "APP_CONTACT_FORM_PHONE": "Celular",
+    "APP_CONTACT_FORM_EMAIL": "E-mail",
+    "APP_CONTACT_FORM_EMAIL_FAIL_VALIDATION": "E-mail inválido.",
+    "APP_CONTACT_FORM_COMPANY": "Empresa",
+    "APP_CONTACT_FORM_SAVE_BUTTON": "Salvar",
+    
+    "APP_CONTACT_BUTTON_LABEL_OK": "Ok",
+    "APP_CONTACT_BUTTON_LABEL_SAVE": "Salvar",
+    "APP_CONTACT_BUTTON_LABEL_DELETE": "Deletar",
+    "APP_CONTACT_BUTTON_LABEL_CANCEL": "Cancelar",
+    "APP_CONTACT_BUTTON_LABEL_NEW_CONTACT": "Criar novo contato",
+
+    "APP_CONTACT_MESSAGE_REMOVE_ITEM": "Deseja realmente remover este item?",
+    "APP_CONTACT_MESSAGE_REMOVE_CONTACT": "Deseja realmente remover este contato?",
+    "APP_CONTACT_MESSAGE_REMOVE_CONTACT_CONFIRMATION": "Você está prestes a remover:",
+    "APP_CONTACT_MESSAGE_REMOVE_CONTACT_ACTION": "Remover contato",
+
+    "APP_CONTACT_FEEDBACK_SUCCESS": "Sucesso",
+    "APP_CONTACT_FEEDBACK_WARNING": "Alerta",
+    "APP_CONTACT_FEEDBACK_ERROR": "Erro",
+    "APP_CONTACT_FEEDBACK_CONTACT_GET_MANY": "Contatos obtidos com sucesso.",
+    "APP_CONTACT_FEEDBACK_CONTACT_GET_FAIL_MANY": "Nenhum contato foi encontrado.",
+    "APP_CONTACT_FEEDBACK_CONTACT_GET_FAIL": "O Contato não foi encontrado.",
+    "APP_CONTACT_FEEDBACK_CONTACT_GET": "Contato obtido com sucesso.",
+    "APP_CONTACT_FEEDBACK_CONTACT_CREATE": "Contato criado com sucesso.",
+    "APP_CONTACT_FEEDBACK_CONTACT_UPDATE": "Contato atualizado com sucesso.",
+    "APP_CONTACT_FEEDBACK_CONTACT_DELETE": "Contato removido com sucesso.",
+    "APP_CONTACT_FEEDBACK_CONTACT_VALIDATION_NAME": "O campo Nome não pode ficar vazio.",
+    "APP_CONTACT_FEEDBACK_CONTACT_VALIDATION_SURNAME": "O campo Sobrenome não pode ficar vazio.",
+    
+    "APP_CONTACT_IMAGE_CROPER_TITLE": "Ajuste a imagem",
+    "APP_CONTACT_IMAGE_CAMERA_LABEL": "Câmera",
+    "APP_CONTACT_IMAGE_GALLERY_LABEL": "Galeria"
+}
