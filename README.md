@@ -27,6 +27,7 @@ do registro em questão;
 ## Imagens do APP
 
 ![Geral](<Design sem nome.gif>)
+![Interações](<Design sem nome (2).gif>)
 
 ## 📚 Bibliografia
  
