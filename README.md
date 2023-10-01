@@ -26,15 +26,23 @@ do registro em questão;
 
 ## Imagens do APP
 
-<video src="Android%20Emulator%20-%20Pixel_7_API_31_5554%202023-10-01%2014-16-29.mp4" controls title="Title"></video>
+<video src="Android%20Emulator%20-%20Pixel_7_API_31_5554%202023-10-01%2014-38-07.mp4" controls title="Title"></video>
 
 ## 📚 Bibliografia
  
 * [Curved Navigator](https://pub.dev/packages/curved_navigation_bar)
-* [Flutter Localizations](https://pub.dev/packages/flutter_localization)
+* [Easy Localizations](https://pub.dev/packages/easy_localizations)
 * [Intl](https://pub.dev/packages/intl)
 * [Get Storage](https://pub.dev/packages/flutter_typeahead)
 * [Get](https://pub.dev/packages/get)
 * [Brasil_fields](https://pub.dev/packages/brasil_fields)
 * [Flutter_dotenv](https://pub.dev/packages/flutter_dotenv)
 * [dio](https://pub.dev/packages/dio)
+* [Flutter Staggered Animations](https://pub.dev/packages/flutter_staggered_animations)
+* [Image Picker](https://pub.dev/packages/image_picker)
+* [Gallery Saver](https://pub.dev/packages/gallery_saver)
+* [Image Cropper](https://pub.dev/packages/image_cropper)
+* [Mask Text Input Formatter](https://pub.dev/packages/mask_text_input_formatter)
+* [Lottie](https://pub.dev/packages/lottie)
+* [Email Validator](https://pub.dev/packages/email_validator)
+
