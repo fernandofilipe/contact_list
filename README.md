@@ -26,7 +26,7 @@ do registro em questão;
 
 ## Imagens do APP
 
-<video src="Android%20Emulator%20-%20Pixel_7_API_31_5554%202023-10-01%2014-38-07.mp4" controls title="Title"></video>
+![Geral](<Design sem nome.gif>)
 
 ## 📚 Bibliografia
  
